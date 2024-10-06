@@ -1,4 +1,4 @@
-tensorflow-cpu==2.9.0
+tensorflow
 Flask==2.1.0
 scikit-learn==1.1.0
 numpy==1.22.4
